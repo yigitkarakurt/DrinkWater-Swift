@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0065DDB5294BC896002D204C /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0065DDB4294BC896002D204C /* DataStore.swift */; };
 		00C34B682949FE6B0004925C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C34B672949FE6B0004925C /* AppDelegate.swift */; };
 		00C34B6A2949FE6B0004925C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C34B692949FE6B0004925C /* SceneDelegate.swift */; };
 		00C34B6C2949FE6B0004925C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C34B6B2949FE6B0004925C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0065DDB4294BC896002D204C /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		00C34B642949FE6B0004925C /* DrinkWater.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrinkWater.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00C34B672949FE6B0004925C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00C34B692949FE6B0004925C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				00C34B672949FE6B0004925C /* AppDelegate.swift */,
 				00C34B692949FE6B0004925C /* SceneDelegate.swift */,
 				00C34B6B2949FE6B0004925C /* ViewController.swift */,
+				0065DDB4294BC896002D204C /* DataStore.swift */,
 				00C34B6D2949FE6B0004925C /* Main.storyboard */,
 				00C34B702949FE6C0004925C /* Assets.xcassets */,
 				00C34B722949FE6C0004925C /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00C34B6C2949FE6B0004925C /* ViewController.swift in Sources */,
+				0065DDB5294BC896002D204C /* DataStore.swift in Sources */,
 				00C34B682949FE6B0004925C /* AppDelegate.swift in Sources */,
 				00C34B6A2949FE6B0004925C /* SceneDelegate.swift in Sources */,
 			);
